@@ -25,8 +25,8 @@ python greet.py
 ```
 
 **Features:**
-Takes user input
-Prints a personalized greeting
+- Takes user input
+- Prints a personalized greeting
 
 
 ### 2. SimpleCalculator.py
@@ -38,9 +38,9 @@ python simple_calculator.py
 ```
 
 **Features:**
-Performs +,-,*,/ on two numbers.
-Handles division by zero with an error message.
-Shows invalid operation if wrong choice entered.
+- Performs +,-,*,/ on two numbers.
+- Handles division by zero with an error message.
+- Shows invalid operation if wrong choice entered.
 
 
 
