@@ -1,8 +1,7 @@
-# \#Python Mini Projects
+# Python Mini Projects
 
 
-
-A collection of beginner-friendly Python projects to practice programming basics and build a personal portfolio.
+This repository contains beginner-friendly Python projects to practice core programming concepts.
 
 Each project is small, self-contained, and well documented so you can learn step by step .
 
@@ -16,9 +15,24 @@ Each project is small, self-contained, and well documented so you can learn step
 
 
 
-\### 1. Greet.py
+### 1. Greet Program
 
-A very simple program that asks for your name and greets you with the current date.
+A very simple program that asks for user's name and greets them with the current date.
+
+**RUN:**
+```bash
+python greet.py
+
+Features:
+Takes user input
+Prints a personalized greeting
+
+
+### 2. SimpleCalculator.py
+A basic calculator that asks for two numbers and an operation (addition, subtraction, multiplication and division).
+
+
+
 
 
 
