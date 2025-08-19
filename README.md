@@ -22,14 +22,25 @@ A very simple program that asks for user's name and greets them with the current
 **RUN:**
 ```bash
 python greet.py
+```
 
-Features:
+**Features:**
 Takes user input
 Prints a personalized greeting
 
 
 ### 2. SimpleCalculator.py
 A basic calculator that asks for two numbers and an operation (addition, subtraction, multiplication and division).
+
+**RUN:**
+```bash
+python simple_calculator.py
+```
+
+**Features:**
+Performs +,-,*,/ on two numbers.
+Handles division by zero with an error message.
+Shows invalid operation if wrong choice entered.
 
 
 
