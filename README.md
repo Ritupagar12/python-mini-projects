@@ -21,7 +21,18 @@ A very simple program that asks for user's name and greets them with the current
 python greet.py
 ```
 
-## 2. Operators Projects
+### 1.2 Simple Interest Calculator
+
+**Features:**
+- Takes user input(principal, rate of interest, Time)
+- Calculates the Simple Interest using formula: Simple Interest = (Principal * Rate of Interest * Time)/100.
+- Prints the Simple Interest
+
+```bash
+python simple_interest.py
+```
+
+## 2. Operators 
 
 ### 2.1 Simple Calculator (Arithmetic)
 A basic calculator that asks for two numbers and an operation (addition, subtraction, multiplication and division).
@@ -113,6 +124,60 @@ python bitwise_masking.py
 ```
 
 
+## 3. Conditional Statements
+
+### 3.1 Odd or Even Checker
+**Features:**
+- Takes an user input (number).
+- Checks and prints if a number is even or odd.
+
+**RUN:**
+```bash
+python even_odd.py
+```
+
+### 3.2 Positive, Negative or Zero Number
+**Features:**
+- Takes a number as user input.
+- Checks if number is positive, negative or zero.
+- Prints the result.
+**RUN:**
+```bash
+python positive_negative_zero.py
+```
+
+### 3.3 Largest of Three Numbers
+**Features:**
+- Finds the largest among three numbers using if-elif-else.
+
+**RUN:**
+```bash
+python largest_of_three.py
+```
+
+
+### 3.4 Simple Grading System
+**Features:**
+- Assigns grades (A-F) based on marks.
+
+**RUN:**
+```bash
+python grading_system.py
+```
+
+## Upcoming projects
+### 3.5 Leap Year Checker
+### 3.6 ATM Withdrawal Simulation
+### 3.7 Basic Login System
+### 3.8 Power Bank Checker
+### 3.9 Donut Discount Calculator
+
+## 4. Loop
+
+### 4.1 Number Guessing Game
+### 4.2 Multiplication Table
+### 4.3 Password Checker
+### 4.4 Sum of Digits
 
 
 
