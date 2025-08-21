@@ -11,7 +11,7 @@ Each project is small, self-contained, and well documented so you can learn step
 
 
 
-## \## Projects
+## Projects
 
 
 
