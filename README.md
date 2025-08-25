@@ -11,7 +11,6 @@ Each project demonstrates important **Python Concepts** in a practical way.
 
 
 ### 1.1 Greet Program
-A very simple program that asks for user's name and greets them with the current date.
 **Features:**
 - Takes user input (name).
 - Prints a personalized greeting
