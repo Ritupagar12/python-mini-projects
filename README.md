@@ -164,19 +164,79 @@ python largest_of_three.py
 python grading_system.py
 ```
 
-## Upcoming projects
 ### 3.5 Leap Year Checker
+**Features:**
+- Checks whether a year is a leap year.
+
+**RUN:**
+```bash
+python leap_year.py
+```
+
 ### 3.6 ATM Withdrawal Simulation
+**Features:**
+- Simulates a simple ATM withdrawal system.
+- Validates balance and amount.
+
+**RUN:**
+```bash
+python atm_simulation.py
+```
+
 ### 3.7 Basic Login System
-### 3.8 Power Bank Checker
-### 3.9 Donut Discount Calculator
+**Features:**
+- Simple login check with username and password.
+- Gives feedback for incorrect credentials.
+
+**RUN:**
+```bash
+python basic_login_system.py
+```
+
+### 3.8 Donut Discount Calculator
+**Problem:**
+- Price per donut = Rs. 105.50
+- 36 donuts purchased.
+
+Discount slabs:
+- Amount > 10000 -> 10
+- Amount > 5000 -> 5%
+- Amount > 2000 -> 2%
+- Amount > 1000 -> 1%
+
+**Features:**
+- Calculates the total price for purchased donuts.
+- Applies discount based on the price slabs.
+- Displays final bill with discount applied.
+
+**RUN:**
+```bash
+python donut_discount.py
+```
 
 ## 4. Loop
 
 ### 4.1 Number Guessing Game
+**Features:**
+- Computer chooses a random number.
+- User tries to guess.
+- Program gives hints until correct.
+
+**RUN:**
+```bash
+python number_guessing_game.py
+```
+
 ### 4.2 Multiplication Table
-### 4.3 Password Checker
-### 4.4 Sum of Digits
+**Features:**
+- Asks a number as user input.
+- Prints a multiplication table.
+
+**RUN:**
+```bash
+python multiplication_table.py
+```
+
 
 
 
