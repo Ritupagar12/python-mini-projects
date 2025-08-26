@@ -4,11 +4,10 @@ This repository contains Python mini projects categorize by topics.
 
 ## Project Categories
 
-```markdown
 
-- [introduction_projects] (README.md)
-- [operators]
-- [conditions]
-- [strings]
-- [data_structures]
-- [loops]
+- [Introduction Projects](introduction_projects/)
+- [Operators](operators/)
+- [Conditional Statements](conditional_statements/)
+- [Strings](strings/)
+- [Data Structures](data_structures/)
+- [Loops](loops/)
