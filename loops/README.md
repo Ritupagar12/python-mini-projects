@@ -83,3 +83,14 @@ python multiplication_table.py
 python factorial_calculator.py
 ```
 
+### 8. Underscore Range
+
+**Features:**
+- Using _ as a throwaway iteration variable.
+- Handy for repeating an action or building placeholders.
+- uses sleep() function.
+
+**RUN:**
+```bash
+python underscore_range_demo.py
+```

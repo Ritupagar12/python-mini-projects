@@ -1,6 +1,6 @@
 ## Functions 
 
-This folder contains mini projects to learn Python functions, modules, and packages.
+This folder contains mini projects to learn Python functions.
 
 ### 1. [Calculator](calculator_function.py)
 Performs basic arithmetic operations using functions.
@@ -81,7 +81,7 @@ Counts number of words in a sentence.
 python word_counter.py
 ```
 
-### 7. Fibonacci Sequence Generator
+### 7. [Fibonacci Sequence Generator](fibonacci_sequence_generator.py)
 Generates the first n numbers of the Fibonacci sequence.
 
 **Features:**
@@ -94,7 +94,7 @@ Generates the first n numbers of the Fibonacci sequence.
 python fibonacci_sequence_generator.py
 ```
 
-### 8. Grading System
+### 8. [Grading System](grading_system.py)
 Returns a grade based on marks.
 
 **Features:**
@@ -105,4 +105,52 @@ Returns a grade based on marks.
 **RUN:**
 ```bash
 python grading_system.py
+```
+
+### 9. [Lambda Sorter](lambda_sorter.py)
+
+**Features:**
+- Sort dictionary items by name or price.
+
+**RUN:**
+```bash
+python lambda_sorter.py
+```
+
+### 10. [Lambda Map filter](lambda_map_filter.py)
+
+**Features:**
+- Ask user to enter integers
+- provide square of even integers.
+
+**RUN:**
+```bash
+python lambda_map_filter.py
+```
+
+### 11. [Countdown Generator](generator_countdown)
+
+**Features:**
+- Uses yield to generate values one by one (like a lazy iterator).
+- Implements a countdown timer from n down to 1.
+- Demonstrates how generators pause and resume execution.
+- Very memory-efficient since it does not store all numbers at once.
+
+**RUN:**
+```bash
+python generator_countdown.py
+```
+
+### 12. [Gloabal Variables Controller](globals_toggle.py)
+
+**Features:**
+- Shows how to use the globals() functions to dynamically modify global variables inside functions.
+- toggle_debug() switches DEBUG variable between True and False.
+- set_theme() updates the THEME variable globally.
+- Demonstrates the difference between local scope and global scope.
+- Useful for configuration toggles in larger projects.
+
+**RUN:**
+```bash
+python globals_toggle.py
 ```

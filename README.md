@@ -1,3 +1,4 @@
+
 # :snake: Python Mini Projects
 
 This repository contains beginner-friendly Python mini projects, organized by topics.
@@ -33,8 +34,12 @@ Understand how to repeat tasks efficiently.
 Projects using **user-defined functions, arguments, return values, recursion, and lambda functions**.
 Learn how to structure reusable and modular code.
 
+### [Module](modules/README.md)
+
+
+### [Package](packages/README.md)
+
 ## How to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/Ritupagar12/python-mini-projects.git
-
