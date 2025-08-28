@@ -29,7 +29,7 @@ Includes mini apps like To-Do List, Gradebook, Shopping Cart, and more.
 Projects using **for loops, while loops, loop control (break, continue, else)**, and iterations over sequences.
 Understand how to repeat tasks efficiently.
 
-### 🗂️ [Function](functions/)
+### 🗂️ [Function](functions/README.md)
 Projects using **user-defined functions, arguments, return values, recursion, and lambda functions**.
 Learn how to structure reusable and modular code.
 

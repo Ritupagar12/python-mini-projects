@@ -2,7 +2,7 @@
 
 This folder contains mini projects to learn Python functions, modules, and packages.
 
-### 1. [Calculator](calculator.py)
+### 1. [Calculator](calculator_function.py)
 Performs basic arithmetic operations using functions.
 **Features:**
 - Functions for add, subtract, multiply and divide.
@@ -15,7 +15,7 @@ Performs basic arithmetic operations using functions.
 python calculator_function.py
 ```
 
-### 2. Unit Converter App
+### 2. [Unit Converter App](unit_converter.py)
 Converts unitd(km <-> miles, Celcius <-> fahrenheit).
 
 **Features:**
@@ -29,7 +29,7 @@ Converts unitd(km <-> miles, Celcius <-> fahrenheit).
 python unit_converter.py
 ```
 
-### 3. Factorial Finder
+### 3. [Factorial Finder](factorial_finder.py)
 Finds factorial of a number using recursion.
 
 **Features:**
@@ -42,7 +42,7 @@ Finds factorial of a number using recursion.
 python factorial_finder.py
 ```
 
-### 4. Palindrome Checker
+### 4. [Palindrome Checker](palindrome_checker.py)
 Checks if a word is a palindrome.
 
 **Features:**
@@ -55,7 +55,7 @@ Checks if a word is a palindrome.
 python palindrome_checker.py
 ```
 
-### 5. Prime Number Checker
+### 5. [Prime Number Checker](prime_number_checker.py)
 Determines if a number is prime.
 
 **Features:**
@@ -68,7 +68,7 @@ Determines if a number is prime.
 python prime_number_checker.py
 ```
 
-### 6. Word Counter
+### 6. [Word Counter](word_counter.py)
 Counts number of words in a sentence.
 
 **Features:**
