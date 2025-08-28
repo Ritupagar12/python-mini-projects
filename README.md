@@ -34,10 +34,9 @@ Understand how to repeat tasks efficiently.
 Projects using **user-defined functions, arguments, return values, recursion, and lambda functions**.
 Learn how to structure reusable and modular code.
 
-### [Module](modules/README.md)
+### [Modules and Packages](modules_and_packages/README.md)
+Mini projects exploring built-in modules, module attributes, and making a samll packages.
 
-
-### [Package](packages/README.md)
 
 ## How to Run
 1. Clone the repository:

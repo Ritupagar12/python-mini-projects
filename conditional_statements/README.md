@@ -2,7 +2,7 @@
 
 This folder contains Python mini-projects demonstrating the use of loconditional statements.
 
-### 1. Odd or Even Checker
+### 1. [Odd or Even Checker](even_odd.py)
 **Features:**
 - Takes an user input (number).
 - Checks and prints if a number is even or odd.
@@ -12,7 +12,7 @@ This folder contains Python mini-projects demonstrating the use of loconditional
 python even_odd.py
 ```
 
-### 2. Positive, Negative or Zero Number
+### 2. [Positive, Negative or Zero Number](positive_negative_zero.py)
 **Features:**
 - Takes a number as user input.
 - Checks if number is positive, negative or zero.
@@ -22,7 +22,7 @@ python even_odd.py
 python positive_negative_zero.py
 ```
 
-### 3. Largest of Three Numbers
+### 3. [Largest of Three Numbers](largest_of_three.py)
 **Features:**
 - Finds the largest among three numbers using if-elif-else.
 
@@ -32,7 +32,7 @@ python largest_of_three.py
 ```
 
 
-### 4. Simple Grading System
+### 4. [Simple Grading System](grading_system.py)
 **Features:**
 - Assigns grades (A-F) based on marks.
 
@@ -41,7 +41,7 @@ python largest_of_three.py
 python grading_system.py
 ```
 
-### 5. Leap Year Checker
+### 5. [Leap Year Checker](leap_year.py)
 **Features:**
 - Checks whether a year is a leap year.
 
@@ -50,7 +50,7 @@ python grading_system.py
 python leap_year.py
 ```
 
-### 6. ATM Withdrawal Simulation
+### 6. [ATM Withdrawal Simulation](atm_simulation.py)
 **Features:**
 - Simulates a simple ATM withdrawal system.
 - Validates balance and amount.
@@ -60,7 +60,7 @@ python leap_year.py
 python atm_simulation.py
 ```
 
-### 7. Basic Login System
+### 7. [Basic Login System](basic_login_system.py)
 **Features:**
 - Simple login check with username and password.
 - Gives feedback for incorrect credentials.
@@ -70,7 +70,7 @@ python atm_simulation.py
 python basic_login_system.py
 ```
 
-### 8. Donut Discount Calculator
+### 8. [Donut Discount Calculator](donut_discount.py)
 **Problem:**
 - Price per donut = Rs. 105.50
 - 36 donuts purchased.

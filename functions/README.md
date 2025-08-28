@@ -110,7 +110,7 @@ python grading_system.py
 ### 9. [Lambda Sorter](lambda_sorter.py)
 
 **Features:**
-- Sort dictionary items by name or price.
+- Sort a list of dicts by `name` or `price` using `lambda`.
 
 **RUN:**
 ```bash

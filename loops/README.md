@@ -2,7 +2,7 @@
 
 This folder contains Python mini-projects demonstrating the use of loops.
 
-### 1. Number Range Printer
+### 1. [Number Range Printer](number_range.py)
 **Features:**
 - Print numbers in a given range using range(start, stop).
 - Demonstrates step values in range(start, stop, step).
@@ -13,7 +13,7 @@ This folder contains Python mini-projects demonstrating the use of loops.
 python number_range.py
 ```
 
-### 2. String Character Iterator
+### 2. [String Character Iterator](string_character_iterator.py)
 **Features:**
 - Take a string input from user.
 - Print each character on a new line.
@@ -24,7 +24,7 @@ python number_range.py
 python string_character_iterator.py
 ```
 
-### 3. Dictionary Key-Value Viewer
+### 3. [Dictionary Key-Value Viewer](dict_loop.py)
 **Features:**
 - Store Key-Value pairs in dictionary.
 - Iterate and display both keys and values.
@@ -35,7 +35,7 @@ python string_character_iterator.py
 python dict_loop.py
 ```
 
-### 4. Prime Number Checker
+### 4. [Prime Number Checker](prime_checker.py)
 **Features:**
 - Ask user for a number.
 - Use loop to check divisibility.
@@ -48,7 +48,7 @@ python dict_loop.py
 python prime_checker.py
 ```
 
-## 5. Number Guessing Game
+## 5. [Number Guessing Game](guess_number.py)
 **Features:**
 - Computer generate a random number (1-10).
 - Ask user to guess until correct.
@@ -61,7 +61,7 @@ python prime_checker.py
 python guess_number.py
 ```
 
-### 6. Multiplication Table
+### 6. [Multiplication Table](multiplication_table.py)
 **Features:**
 - Generate multiplication table for numbers 1-10.
 - Format neatly using nested for loops.
@@ -71,7 +71,7 @@ python guess_number.py
 ```bash
 python multiplication_table.py
 ```
-### 7. Factorial Calculator
+### 7. [Factorial Calculator](factorial_calculator.py)
 **Features:**
 - Take number input from user.
 - Multiply values from 1 to n.
@@ -83,7 +83,7 @@ python multiplication_table.py
 python factorial_calculator.py
 ```
 
-### 8. Underscore Range
+### 8. [Underscore Range](underscore_range_demo.py)
 
 **Features:**
 - Using _ as a throwaway iteration variable.

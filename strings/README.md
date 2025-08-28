@@ -3,7 +3,7 @@
 This folder contains Python mini-projects demonstrating the use of strings.
 
 
-### 1. String Operation
+### 1. [String Operation](string_operations.py)
 **Features:**
 - Perform String operations : Concatenation, Repetition, Slicing, Membership
 
@@ -12,7 +12,7 @@ This folder contains Python mini-projects demonstrating the use of strings.
 python string_operations.py
 ```
 
-### 2. String Methods
+### 2. [String Methods](string_methods.py)
 **Features:**
 - Perform string methods : 
 capitalize()
@@ -33,7 +33,7 @@ replace()
 python string_methods.py
 ```
 
-### 3. String Formatting
+### 3. [String Formatting](string_formatting.py)
 **Features:**
 - Escape sequences : \n, \t, \"
 - Format specification symbols {}
@@ -44,7 +44,7 @@ python string_methods.py
 python string_formatting.py
 ```
 
-### 4. String Analyzer
+### 4. [String Analyzer](string_analyser.py)
 **Features:**
 - Ask user to enter a string.
 - Perform operations: length, reverse, uppercase, lowercase, title, count specific character.

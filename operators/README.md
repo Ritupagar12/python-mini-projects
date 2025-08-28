@@ -2,7 +2,7 @@
 
 This folder contains Python mini-projects demonstrating the use of operators.
 
-### 1. Simple Calculator (Arithmetic)
+### 1. [Simple Calculator (Arithmetic)](simple_calculator.py)
 A basic calculator that asks for two numbers and an operation (addition, subtraction, multiplication and division).
 **Features:**
 - Performs +,-,*,/ on two numbers.
@@ -14,7 +14,7 @@ A basic calculator that asks for two numbers and an operation (addition, subtrac
 python simple_calculator.py
 ```
 
-### 2. Comparison Operators
+### 2. [Comparison Operators](comparison_operators.py)
 **Features:**
 - Demonstrates all comparison operators: ++ != > < >= <=
 
@@ -22,7 +22,7 @@ python simple_calculator.py
 ```bash
 python comparison_operators.py
 ```
-### 3. Logical Operators
+### 3. [Logical Operators](logical_operators.py)
 **Features:**
 - Demonstrates all logical operators: and or not
 
@@ -30,7 +30,7 @@ python comparison_operators.py
 ```bash
 python logical_operators.py
 ```
-### 4. Bitwise Operators
+### 4. [Bitwise Operators](bitwise_operators.py)
 **Features:**
 -Demonstrates all bitwise operators: & | ^ ~ << >>
 
@@ -39,7 +39,7 @@ python logical_operators.py
 python bitwise_operators.py
 ```
 
-### 5. Membership Operators
+### 5. [Membership Operators](membership_operators.py)
 **Features:**
 - Demonstrates membership operators: in, not in
 
@@ -48,7 +48,7 @@ python bitwise_operators.py
 python membership_operators.py
 ```
 
-### 6. Student Pass/Fail (Comparison + Logical)
+### 6. [Student Pass/Fail (Comparison + Logical)](student_result.py)
 
 **Features:**
 - Accepts marks for Math and Science.
@@ -60,7 +60,7 @@ python membership_operators.py
 python student_result.py
 ```
 
-### 7. Login System
+### 7. [Login System](login_system.py)
 **Features:**
 - Predefined list of users.
 - Uses membership operator (in).
@@ -71,7 +71,7 @@ python student_result.py
 python login_system.py
 ```
 
-### 8. Identity Checker
+### 8. [Identity Checker](identity_checker.py)
 **Features:**
 - Demonstrates is and is not.
 - Checks if two variables refer to the same object.
@@ -81,7 +81,7 @@ python login_system.py
 python identity_checker.py
 ```
 
-### 9. Bitwise Masking
+### 9. [Bitwise Masking](bitwise_masking.py)
 **Features:**
 - Demonstrates bitwise operators: & | ^ ~ << >>
 - Uses binary masks to check read/write permissions.

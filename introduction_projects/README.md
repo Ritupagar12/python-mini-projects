@@ -2,7 +2,7 @@
 
 This folder contains Python introduction mini-projects.
 
-### 1.1 Greet Program
+### 1.1 [Greet Program](greet.py)
 **Features:**
 - Takes user input (name).
 - Prints a personalized greeting
@@ -12,7 +12,7 @@ This folder contains Python introduction mini-projects.
 python greet.py
 ```
 
-### 1.2 Simple Interest Calculator
+### 1.2 [Simple Interest Calculator](simple_interest.py)
 
 **Features:**
 - Takes user input(principal, rate of interest, Time)

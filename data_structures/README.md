@@ -2,7 +2,7 @@
 
 This folder contains Python mini-projects demonstrating the use of data structures.
 
-### 1. To-Do List Manager (List)
+### 1. [To-Do List Manager (List)](to_do_list.py)
 **Features:**
 - Display current task with every menu option.
 - Add new tasks dynamically using append().
@@ -15,7 +15,7 @@ This folder contains Python mini-projects demonstrating the use of data structur
 python to_do_list.py
 ```
 
-### 2. Student Gradebook (Dictionary)
+### 2. [Student Gradebook (Dictionary)](student_gradebook.py)
 **Features:**
 - Store student names with grades using a dictionary.
 - Add or update student grades.
@@ -28,7 +28,7 @@ python to_do_list.py
 python student_gradebook.py
 ```
 
-### 3. Shopping Cart App (List + Dictionary)
+### 3. [Shopping Cart App (List + Dictionary)](shopping_cart.py)
 **Features:**
 - Maintain cart items in a list.
 - Predefined price list using a dictionary.
@@ -41,7 +41,7 @@ python student_gradebook.py
 python shopping_cart.py
 ```
 
-### 4. Unique Words Finder (Set)
+### 4. [Unique Words Finder (Set)](unique_words_finder.py)
 ***Features:**
 - Take a sentence as input.
 - Split into individual words.
@@ -53,7 +53,7 @@ python shopping_cart.py
 ```bash
 python unique_words_finder.py
 ```
-### 5. Contacts Manager (Dictionary)
+### 5. [Contacts Manager (Dictionary)](contact_manager.py)
 **Features:**
 - Store contacts as name-phone key-value pairs in a dictionary.
 - Add new contacts.
@@ -66,7 +66,7 @@ python unique_words_finder.py
 python contact_manager.py 
 ```
 
-### 6. Simple Profile Card (Dictionary)
+### 6. [Simple Profile Card (Dictionary)](profile_card.py)
 Collects user information and displays it in a formatted profile card.
 **Features:**
 - Accepts name, age and height.
@@ -78,7 +78,7 @@ Collects user information and displays it in a formatted profile card.
 python profile_card.py
 ```
 
-### 7. Shopping List Manager (List + Set)
+### 7. [Shopping List Manager (List + Set)](shopping_list.py)
 Manages a shopping list, removes duplicates, and checks if an item exists.
 **Features:**
 - Add items to a shopping list (list).
@@ -90,7 +90,7 @@ Manages a shopping list, removes duplicates, and checks if an item exists.
 python shopping_list.py
 ```
 
-### 8. Math Quiz
+### 8. [Math Quiz](math_quiz.py)
 A simple quiz that asks basic math questions and checks the answers.
 **Features:**
 - Uses int and float for calculations.
@@ -102,7 +102,7 @@ A simple quiz that asks basic math questions and checks the answers.
 python math_quiz.py
 ```
 
-### 9. List and Tuple Operations
+### 9. [List and Tuple Operations](list_tuple_manager.py)
 Demonstrates operations and conversions between lists and tuples.
 **Features:**
 - Create a list and a tuple.
@@ -115,7 +115,7 @@ Demonstrates operations and conversions between lists and tuples.
 python list_tuple_manager.py
 ```
 
-## 10. Dictionary Operations
+## 10. [Dictionary Operations](dictionary_operations.py)
 **Features:**
 - Perform dictionary operations: keys(), values(), items()
 - Update value
@@ -127,7 +127,7 @@ python list_tuple_manager.py
 python dictionary_operations.py
 ```
 
-### 11. Set Operations and methods
+### 11. [Set Operations and methods](set_operations.py)
 **Features:**
 - Performs Add, Update, Remove, Discard, Clear, Copy sets operations.
 - Performs Union, Intersection, Difference, Symmetric difference methods.
