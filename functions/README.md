@@ -2,7 +2,7 @@
 
 This folder contains mini projects to learn Python functions, modules, and packages.
 
-### 1. Calculator
+### 1. [Calculator](calculator.py)
 Performs basic arithmetic operations using functions.
 **Features:**
 - Functions for add, subtract, multiply and divide.
